@@ -1,6 +1,6 @@
 package org.example.laboratorio3.common.mappers;
 
-import org.example.laboratorio3.domain.dto.response.PageableResponse;
+import org.example.laboratorio3.domain.dto.response.pageable.PageableResponse;
 import org.example.laboratorio3.domain.dto.response.specimen.SpecimenResponse;
 import org.example.laboratorio3.domain.dto.request.CreateSpecimenRequest;
 import org.example.laboratorio3.domain.dto.request.UpdateSpecimenRequest;
