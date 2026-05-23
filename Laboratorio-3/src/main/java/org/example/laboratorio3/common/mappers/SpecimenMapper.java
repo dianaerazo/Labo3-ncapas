@@ -4,7 +4,7 @@ import org.example.laboratorio3.domain.dto.response.pageable.PageableResponse;
 import org.example.laboratorio3.domain.dto.response.specimen.SpecimenResponse;
 import org.example.laboratorio3.domain.dto.request.CreateSpecimenRequest;
 import org.example.laboratorio3.domain.dto.request.UpdateSpecimenRequest;
-import org.hibernate.query.Page;
+import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Component;
 import org.example.laboratorio3.domain.entities.Specimen;
 
